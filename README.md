@@ -1,6 +1,6 @@
 # 💧 Automatic Water Level Controller
 
-![Water Level Controller Setup](./Images/water_level_controller_setup.jpg)
+![Water Level Controller Setup](./images/water_level_controller_setup.jpg)
 
 **Automatic Water Level Controller** is an Arduino-based embedded automation system designed to efficiently regulate and monitor water levels in storage tanks.  
 Using an **ultrasonic sensor**, **relay module**, and **LCD display**, this project automatically controls the pump based on real-time water levels — preventing overflow, dry-run conditions, and water wastage.
@@ -115,8 +115,6 @@ The Arduino code includes the following key functionalities:
 - **LCD Display** updates in real-time with tank percentage and pump status.  
 - **Buzzer & LED Alerts** enhance user feedback.
 
-👉 *Full code is available inside this repository under*  
-`/Code/automatic_water_level_controller.ino`
 
 ---
 
